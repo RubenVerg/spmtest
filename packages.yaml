@@ -1,0 +1,7 @@
+name: spmtest
+version: 0.1.0
+authors: RubenVerg
+description: description
+# for
+entry: main.xml
+repo: https://github.com/RubenVerg/spmtest#main
